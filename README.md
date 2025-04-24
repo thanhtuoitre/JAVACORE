@@ -1,2 +1,3 @@
 # JAVACORE
-Javacore with Thanh
+bai1 phanso
+bai2 diem+tamgiac
